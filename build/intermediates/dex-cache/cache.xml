@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\proyectos_android\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="E:\proyectos_android\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-d2ae361fe7e90706ff8ec2204b32fe2e7e714471.jar" />
+    </item>
+    <item
+        jar="E:\proyectos_android\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\proyectos_android\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-e3030c9fb577cfcafc631b6da886ddcfa06989bf.jar" />
+    </item>
+    <item
+        jar="E:\proyectos_android\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\proyectos_android\BasicNotifications\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-540f95c829b99f68e625584e8a7f1072ba2e82f5.jar" />
+    </item>
+    <item
+        jar="E:\proyectos_android\BasicNotifications\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="E:\proyectos_android\BasicNotifications\Application\build\intermediates\pre-dexed\debug\classes-d5dd1f3e0eed4f50047de8a57a234af5a692da43.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\proyectos_android\BasicNotifications\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-b43c858c6b9dbf0344b8155f174b11cb742366d9.jar" />
+    </item>
+
+</items>
